@@ -157,14 +157,14 @@ main {
 }
 
 .calendar-header::before {
-    content: '★';
+    content: '☭';
     margin-right: 12px;
     color: var(--gold);
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 
 .calendar-header::after {
-    content: '★';
+    
     margin-left: 12px;
     color: var(--gold);
     font-size: 1.2em;
